@@ -1,6 +1,6 @@
 # Bonjour ! 🥖
 
-My name is ABdallah Akrab. I am a fullstack  developer.
+My name is Abdallah Akrab. I am a fullstack developer.
 
 
 ## 🛠  Technologies and tools
