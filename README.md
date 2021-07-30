@@ -1,4 +1,4 @@
-# Bonjour ! 🥖
+# Hello !
 
 My name is Abdallah Akrab. I am a fullstack developer.
 
