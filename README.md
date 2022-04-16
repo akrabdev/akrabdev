@@ -55,7 +55,7 @@ My name is Abdallah Akrab. I am a fullstack developer.
 
 ## 🔍  Where to find me
 
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/abdallah-akrab-b9ba72139/)
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/akrabdev/)
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
